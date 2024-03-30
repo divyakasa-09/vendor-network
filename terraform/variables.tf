@@ -1,4 +1,4 @@
-variable "aws region" {}
+variable "aws_region" {}
 
 variable "app_name" {
     default = "vendor-network"
